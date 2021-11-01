@@ -1,6 +1,5 @@
-https://img.shields.io/github/followers/ymzkjpx?style=social
-
-https://img.shields.io/github/stars/ymzkjpx?style=social
+![followers](https://img.shields.io/github/followers/ymzkjpx?style=social)
+![stars](https://img.shields.io/github/stars/ymzkjpx?style=social)  
 
 ## 👋 Hi, I’m @ymzkjpx
 - ymzkjpx
