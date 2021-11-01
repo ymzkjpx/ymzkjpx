@@ -1,10 +1,24 @@
-- 👋 Hi, I’m @ymzkjpx
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 👋 Hi, I’m @ymzkjpx
+- ymzkjpx
+- Java aficionado ☕
+- ServerSideEngineer in Tokyo, Japan.
+- Mainly in ServerSideEnginner && QAEngineer.
+- and especially fond of SpringFramework.
+- a huge nerd/geek.
+- In my private life, I like to study world history and the history of philosophy, and read science fiction novels. I would be happy if our hobbies match.
 
-<!---
-ymzkjpx/ymzkjpx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 👀 I’m interested in ...
+- Java (especially SpringFramework), Python, JavaScript, ...
+- OOP, DDD, Refactoring, ....
+- MySQL, PostgreSQL, MyBatis, ...
+- Agile, QA, Test Automation, ...
+
+### 🌱 I’m currently learning ...
+- React, Gatsby, GraphQL, : https://github.com/ymzkjpx/blog
+- Especially in Java, I am writing code every day　, for to be more creative work.
+- Oh, yeah, and English too.
+
+### 📫 Get in Touch
+- Twitter: https://twitter.com/dev_null_cat
+- Blog: https://ymzkjpx.com/
+- Qiita: https://qiita.com/ymzkjpx
