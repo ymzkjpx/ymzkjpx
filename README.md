@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @ymzkjpx
 - ymzkjpx
 - Java aficionado ☕
-- ServerSideEngineer in Tokyo, Japan.
+- ServerSideEngineer in Tokyo.Japan.
 - Mainly in ServerSideEnginner && QAEngineer.
 - and especially fond of SpringFramework.
 - a huge nerd/geek.
