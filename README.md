@@ -15,7 +15,7 @@
 
 ### 🌱 I’m currently learning ...
 - React, Gatsby, GraphQL, : https://github.com/ymzkjpx/blog
-- Especially in Java, I am writing code every day　, for to be more creative work.
+- Especially in Java, I am writing code every day, for to be more creative work. (Some of it is simply because I like it.)
 - Oh, yeah, and English too.
 
 ### 📫 Get in Touch
