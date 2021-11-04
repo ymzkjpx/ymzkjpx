@@ -30,5 +30,5 @@
 
 ## 📫 Get in Touch
 - Twitter: https://twitter.com/dev_null_cat
-<!-- - Blog: https://ymzkjpx.com/ -->
 - Qiita: https://qiita.com/ymzkjpx
+- <！-- Blog: https://ymzkjpx.com/ -->
