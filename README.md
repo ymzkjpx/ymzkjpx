@@ -23,7 +23,7 @@
 - Working on it now, so please wait for a while...
 
 ## 🌱 I’m currently learning ...
-- React, Gatsby, GraphQL⚛️ : 
+- VueJS, TypeScript, AWS
 - Especially in Java, I am writing code every day, 
 - for to be more creative work. (Some of it is simply because I like it.)
 - Also, English too✏️
