@@ -31,4 +31,5 @@
 ## 📫 Get in Touch
 - Twitter: https://twitter.com/dev_null_cat
 - Qiita: https://qiita.com/ymzkjpx
+- Gist: https://gist.github.com/ymzkjpx
 - <！-- Blog: https://ymzkjpx.com/ -->
