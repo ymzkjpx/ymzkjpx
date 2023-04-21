@@ -8,7 +8,8 @@
 - I am a beginner, but have experience as a project manager and business owner at times.
 - Mainly in BackendEnginner && QAEngineer.
 - and especially fond of SpringFramework🍃
-- A little bit of front-end development is also available.
+- Developing in Laravel is also a lot of fun and discovery.
+- Full-scale front-end development using HTML/CSS/JS is also available.
 - I was once responsible for the front-end design of one commercial product.
 - a huge nerd/geek.
 - In my private life, I like to study world histor and the history of philosophy🏛️ 
