@@ -7,7 +7,7 @@
 - BackendEngineer in Tokyo.Japan.
 - I am a beginner, but have experience as a project manager and business owner at times.
 - Mainly in BackendEnginner && QAEngineer.
-- and especially fond of SpringFramework🍃
+- and especially fond of SpringFramework🍃, and Laravel🐘
 - Developing in Laravel is also a lot of fun and discovery.
 - Full-scale front-end development using HTML/CSS/JS is also available.
 - I was once responsible for the front-end design of one commercial product.
