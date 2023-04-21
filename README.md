@@ -12,12 +12,12 @@
 - Full-scale front-end development using HTML/CSS/JS is also available.
 - I was once responsible for the front-end design of one commercial product.
 - a huge nerd/geek.
-- In my private life, I like to study world histor and the history of philosophy🏛️ 
+- In my private life, I like to study world history🗺️, paleontology🦖 and the history of philosophy🏛️
 - and read SFnovels🚀. I would be happy if our hobbies match.
 - Oh, yeah, I am as good as anyone in "Smash Bros"💥⚔️
 
 ## 👀 Love to use
-- Java (especially SpringFramework), VueJS, TypeScript, Python, JavaScript, PHP, Laravel, HTML/CSS, ...
+- Java, SpringFramework, PHP, Laravel, HTML/CSS, JavaScript, VueJS, TypeScript, ShellScript, Python ...
 - OOP, DDD, Refactoring, ....
 - MySQL, PostgreSQL, MyBatis, GitHubCI ...
 - Agile, AgileTesting, QA, TestAutomation, ...🤖
